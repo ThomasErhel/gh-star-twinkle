@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-  background(221, 72, 20);
+  background(236, 111, 24);
   for (var i = 0; i < stars.length; i++) {
 		stars[i].draw();
 	}
